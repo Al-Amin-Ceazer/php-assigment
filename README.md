@@ -19,7 +19,7 @@ stats is sufficient
 
 Clone the repository
 
-    git clone https://gitlab.com/.git
+    git clone https://github.com/Al-Amin-Ceazer/php-assigment.git
 
 Switch to the repo folder
 
